@@ -1,0 +1,2 @@
+kubectl describe replicaset myapp-replicaset
+
